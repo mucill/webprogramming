@@ -6,7 +6,7 @@
 
 Format dasar penulisan tag HTML adalah sebagai berikut :
 
-```text
+```
 <tag_pembuka> ... </tag_penutup>
 ```
 
@@ -19,6 +19,7 @@ Tag ini dikenal juga dengan sebutan _self-closing tag_ atau _void tag_, untuk pe
 Berikut ini adalah contoh struktur sederhana HTML
 
 {% codetabs name="HTML", tye="html" %}
+```markup
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -28,6 +29,7 @@ Berikut ini adalah contoh struktur sederhana HTML
         <p>Halo dunia!</p>
     </body>
 </html>
+```
 {% endcodetabs %}
 
 Silahkan ketik kode diatas, simpan pada folder c:/xampp/htdocs/latihan/hello.html dan jalankan pada browser dengan alamat http://localhost/latihan/hello.html
