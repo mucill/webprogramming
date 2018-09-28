@@ -2,13 +2,9 @@
 
 Untuk menampilkan gambar, HTML menyediakan tag &lt;img&gt;.
 
-{% code-tabs %}
-{% code-tabs-item title="gambar.html" %}
-```markup
+{% codetabs name="HTML", type="html" %}
 <img src="foto.jpg" width="480" height="320" alt="Keterangan" />
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcodetabs %}
 
 
 

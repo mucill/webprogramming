@@ -1,0 +1,11 @@
+{
+    "title": "Web Programming",
+    "description": "Dasar-dasar Web Programming",
+    "author": "Eddy Subratha",
+    "gitbook": ">= 3.0.0",
+    "plugins": ["hints", "codetabs", "code"],
+    "structure": {
+        "summary": "SUMMARY.md",
+        "readme": "README.md"
+    }
+}

@@ -8,15 +8,13 @@ Didalam sebuah website, biasanya anda akan menemukan _menu_ atau tulisan _selanj
 
 Cara membuat anchor atau link dengan menggunakan sebuah sintaks sebagai berikut:
 
-```text
+{% codetabs name="HTML", type="html" %}
 <a href="hello.html">Klik Disini</a>
-```
+{% endcodetabs %}
 
 Secara lengkap, adalah sebagai berikut :
 
-{% code-tabs %}
-{% code-tabs-item title="link.html" %}
-```markup
+{% codetabs name="HTML", type="html" %}
 <html>
 <head>
     <title>Membuat Link</title>
@@ -25,7 +23,5 @@ Secara lengkap, adalah sebagai berikut :
     <a href="hello.html">Klik Disini</a>
 </body>
 </html>
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcodetabs %}
 

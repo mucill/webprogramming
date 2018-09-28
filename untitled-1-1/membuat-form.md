@@ -8,9 +8,7 @@ Ilustrasinya semisal ada sebuah form isian untuk pendaftaran anggota. Ada 2 kolo
 
 Dengan menggunakan sebuah form, kolom isian tersebut dapat dibuat dengan kode sebagai berikut :
 
-{% code-tabs %}
-{% code-tabs-item title="form.html" %}
-```markup
+{% codetabs name="HTML", type="html" -%}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,13 +24,11 @@ Dengan menggunakan sebuah form, kolom isian tersebut dapat dibuat dengan kode se
     </form>    
 </body>
 </html>
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{%- endcodetabs %}
 
 Hasilnya adalah sebagai berikut :
 
 ![](../.gitbook/assets/screen-shot-2018-09-23-at-14.18.42.png)
 
-Sampai tahap ini, form tersebut belum bisa mengolah data. Misalkan anda mengetikkan isi pada kolom Nama dan Alamat. Ketika tombol Simpan diklik, maka halaman tersebut menjadi kosong kembali. Hal ini dikarenakan belum ada fungsi dari HTML yang bisa mengolah data input ini ke dalam sebuah database. Oleh karena itu, HTML harus dikombinasikan dengan PHP.   
+Sampai tahap ini, form tersebut belum bisa mengolah data. Misalkan anda mengetikkan isi pada kolom Nama dan Alamat. Ketika tombol Simpan diklik, maka halaman tersebut menjadi kosong kembali. Hal ini dikarenakan belum ada fungsi dari HTML yang bisa mengolah data input ini ke dalam sebuah database. Oleh karena itu, HTML harus dikombinasikan dengan PHP.
 

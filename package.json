@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "docs:prepare": "gitbook install",
+        "docs:watch": "npm run docs:prepare && gitbook serve",
+        "docs:generate-pdf": "gitbook pdf ./ ./_book/mybook.pdf",
+        "docs:generate": "gitbook build && npm run docs:generate-epub && npm run docs:generate-pdf"
+    }
+}

@@ -11,12 +11,7 @@
   * [Membuat Form](untitled-1-1/membuat-form.md)
   * [Menampilkan Gambar](untitled-1-1/menampilkan-gambar.md)
   * [Pengenalan CSS](untitled-1-1/untitled-2.md)
-* [Pengenal PHP](untitled-1.md)
-* [Pengenalan JAVASCRIPT](untitled-3.md)
+* [Pengenalan PHP](pengenalan-php-1/pengenalan-php.md)
+* [Pengenalan JAVASCRIPT](pengenalan-javascrip.md)
 * [Pengenalan MYSQL](pengenalan-mysql.md)
 * [Pembuatan Website Interaktif](pembuatan-website-interaktif.md)
-
-## Pengenalan PHP
-
-* [Pengenalan PHP](pengenalan-php-1/pengenalan-php.md)
-

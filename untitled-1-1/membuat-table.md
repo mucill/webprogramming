@@ -8,7 +8,7 @@ Sebagai contoh, berikut ini adalah tampilan dari sebuah tabel yang berisikan inf
 
 Dengan menggunakan HTML, table diatas dapat dihasilkan dengan kode sebagai berikut :
 
-```markup
+{% codetabs name="HTML", type="html" %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,11 +35,11 @@ Dengan menggunakan HTML, table diatas dapat dihasilkan dengan kode sebagai berik
     </table>
 </body>
 </html>
-```
+{% endcodetabs %}
 
 Adakalanya penulisan **thead** dan **tbody** tidak dituliskan. Hal ini tidak akan mengurangi hasil dari table yang kita inginkan.
 
-```text
+{% codetabs name="HTML", type="html" %}
 <table border="1" width="35%">
     <tr>
         <th>Nama</th>
@@ -54,7 +54,7 @@ Adakalanya penulisan **thead** dan **tbody** tidak dituliskan. Hal ini tidak aka
         <td>Sukabumi</td>
     </tr>
 </table>
-```
+{% endcodetabs %}
 
 ![](../.gitbook/assets/screen-shot-2018-09-23-at-13.51.10.png)
 
