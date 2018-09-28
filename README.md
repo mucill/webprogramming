@@ -1,0 +1,6 @@
+# Pendahuluan
+
+Internet sudah menjadi bagian dari kehidupan kita. Segala informasi apapun dengan cepat dan mudah dapat di akses melalui media internet ini. Bahkan saat ini pun, perkembangan internet tidak sekedar sebagai sarana pelengkap dalam kehidupan sehari-hari, tetapi telah menjadi kebutuhan utama. Maka tidak jarang, ketika media internet mengalami gangguan, kita merasa ada hal yang kurang dalam kehidupan sehari-hari kita. Hal ini dikarenakan kebutuhan terhadap media internet ini semakin tinggi. Misalnya untuk menunjang pekerjaan kita seperti email, chatting atau video conference. Atau sebagai media hiburan sepeti Youtube, Facebook, Instagram dan video streaming lainnya. Banyak hal yang bisa kita lakukan dan dapatkan melalui media internet ini.
+
+Dengan melihat potensi yang sangat besar ini, maka sudah bisa dipastikan akan banyak membutuhkan sumber data manusia. Tugas utamanya adalah mengolah beragam informasi tersebut agar bisa diakses melalui media internet. Mengolah informasi yang beranekaragam tentunya membutuhkan kemampuan dasar sehingga memahami bagaimana informasi ini diolah dan disajikan ke dalam perangkat lunak. Salah satunya media atau perangkat lunak yang sudah sangat baik dikenal adalah website. 
+
